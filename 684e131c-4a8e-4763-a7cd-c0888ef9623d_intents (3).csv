@@ -1,0 +1,158 @@
+cancel bookings,cance_reservation
+not good,cance_reservation
+not interested,cance_reservation
+booking cancel,cance_reservation
+cancel booking,cance_reservation
+store close timings,close_shop
+store close time,close_shop
+time of close,close_shop
+close,close_shop
+closing,close_shop
+closing time,close_shop
+shop closed,close_shop
+closed,close_shop
+conclude,close_shop
+till what time,close_shop
+shop closes at,close_shop
+store close,close_shop
+store close time=ings,close_shop
+owner details,contact_number
+plz provide me contact number of store,contact_number
+give contact number,contact_number
+show contact information,contact_number
+call,contact_number
+contact information,contact_number
+phone numbers,contact_number
+phone,contact_number
+mobile number,contact_number
+mobile,contact_number
+phone number,contact_number
+email,contact_number
+number,contact_number
+contact number,contact_number
+connect,contact_number
+query,contact_number
+queries,contact_number
+emergency,contact_number
+reservation bookings,contact_number
+bookings,contact_number
+book table,contact_number
+table bookings,contact_number
+t,contact_number
+book tables,contact_number
+reserve table,contact_number
+Any questions,contact_number
+questions,contact_number
+doubts,contact_number
+reach us,contact_number
+reach,contact_number
+dial,contact_number
+dial number,contact_number
+hang on,contact_number
+talk,contact_number
+chat,contact_number
+approximate cost,cost_approx
+euros,cost_approx
+dollars,cost_approx
+rupees,cost_approx
+currency,cost_approx
+money,cost_approx
+amount,cost_approx
+cost,cost_approx
+flower suggestions for my girlfriend,flower_recommendations
+flower recommendation for my friend,flower_recommendations
+Which flowers for Valentine's Day?,flower_recommendations
+flower suggestions for my mom and dad,flower_recommendations
+flower suggestions for my besty,flower_recommendations
+flower suggestions for my bestfriend,flower_recommendations
+flower suggestions for my boyfriend,flower_recommendations
+Flower recommendation,flower_recommendations
+goodbye,goodbye
+thanks a lot!,goodbye
+thanks a lot,goodbye
+thank you so much,goodbye
+talk to you soon,goodbye
+see you,goodbye
+love u,goodbye
+k thanks,goodbye
+k thank you,goodbye
+k goodbye,goodbye
+goodbyee,goodbye
+good bye,goodbye
+ciao,goodbye
+ci ya,goodbye
+cheers,goodbye
+chalo bye!,goodbye
+byee,goodbye
+bye,goodbye
+Good night,greetings
+kia ora,greetings
+Hello,greetings
+Hi nice to meet you,greetings
+Hi,greetings
+Hey,greetings
+Good morning,greetings
+Good afternoon,greetings
+holiday,holiday
+close days,holiday
+holidays,holiday
+day off,holiday
+weekends,holiday
+what are the hours of operation for your Montreal store,hours_info
+When are you open,hours_info
+When do you open,hours_info
+What days are you closed on?,hours_info
+When do you close,hours_info
+Are you open on Christmas' Day?,hours_info
+Are you open on Saturdays?,hours_info
+What time are you open until?,hours_info
+What are your hours of operation?,hours_info
+What are your hours?,hours_info
+Are you open on Sundays?,hours_info
+what are you hours of operation in Toronto,hours_info
+what's the address of your Vancouver store?,location_info
+Locations in Canada,location_info
+locations in America,location_info
+Where are you physically located?,location_info
+What are your locations?,location_info
+List of location,location_info
+Give me a list of locations,location_info
+list of your locations,location_info
+Where are your stores?,location_info
+where is your Toronto store?,location_info
+do you have a flower shop in Montreal,location_info
+What's the address of your Toronto store?,location_info
+open timings,opening_shop
+open time,opening_shop
+opening shop,opening_shop
+open,opening_shop
+openings,opening_shop
+store open,opening_shop
+online payment,payment_online
+payment,payment_online
+cash,payment_online
+card,payment_online
+credit card,payment_online
+debit card,payment_online
+cash on delivery,payment_online
+phone pay,payment_online
+pay online,payment_online
+google pay,payment_online
+online payment accepted,payment_online
+online payments accepted,payment_online
+online payments,payment_online
+pay,payment_online
+how can i pay,payment_online
+can i pay online,payment_online
+mode of payment,payment_online
+pay through,payment_online
+paytm,payment_online
+upi,payment_online
+scan,payment_online
+thank you,thank_you
+thanks,thank_you
+thx,thank_you
+cheers,thank_you
+appreciate it,thank_you
+no,thank_you
+nope,thank_you
